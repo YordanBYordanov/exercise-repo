@@ -4,6 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+
+//small update to make a conflict , first modification !
+
+
 namespace zad10
 {
     class Program
