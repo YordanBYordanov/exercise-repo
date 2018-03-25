@@ -4,6 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+
+// second member trying to modify !
+
+
 namespace zad10
 {
     class Program
