@@ -5,8 +5,16 @@ using System.Text;
 using System.Threading.Tasks;
 
 
+<<<<<<< HEAD
 // second member trying to modify !
+=======
+//small update to make a conflict , first modification !
+>>>>>>> ba63504a0743b57414d1156decba9a1c719f64b1
 
+
+After conflict modification !
+// second member trying to modify !
+//small update to make a conflict , first modification !
 
 namespace zad10
 {
